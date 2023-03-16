@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapBox</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoib2xpbWpvbnJ1c3RhbW92IiwiYSI6ImNsZjN0YnQwcTB2emUzeW56c20zY2lkamUifQ.SSCN1zjyzD6PgyfqSkl0eQ</string>
+    <string name="orders">Зазказы</string>
+    <string name="bordyur">Бордюр</string>
+    <string name="tarffs">Тарифы</string>
+</resources>
